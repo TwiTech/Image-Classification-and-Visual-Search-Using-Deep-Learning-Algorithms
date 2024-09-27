@@ -1,5 +1,4 @@
-## Image Classification and Visual Search for Fashion Items
-Using Deep Learning Algorithms
+## Image Classification and Visual Search for Fashion Items Using Deep Learning Algorithms
 
 This research was conducted to improve the efficiency of ecommerce by improving the classification and visual search of
 fashion products’ images utilizing learnings from deep learning. The
